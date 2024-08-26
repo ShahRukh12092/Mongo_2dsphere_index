@@ -84,7 +84,7 @@ curl -X GET "http://localhost:3000/api/locations/within-polygon?polygon=[[-74.01
 
 **Example request**:
 ```bash
-http://localhost:3000/api/locations/nearest?latitude=74.26427656853268&longitude=31.4697766125898
+curl -X GET "http://localhost:3000/api/locations/nearest?latitude=74.26427656853268&longitude=31.4697766125898"
 ```
 ### 4. Find Locations Within a Circle
 
@@ -98,7 +98,7 @@ http://localhost:3000/api/locations/nearest?latitude=74.26427656853268&longitude
 
 **Example request**:
 ```bash
-http://localhost:3000/api/locations/within-circle?latitude=40.785091&longitude=-73.968285&radius=1000
+curl -X GET "http://localhost:3000/api/locations/within-circle?latitude=40.785091&longitude=-73.968285&radius=1000"
 ```
 ## Contributing
 
