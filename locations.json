@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Statue of Liberty",
+        "location": {
+            "type": "Point",
+            "coordinates": [-74.0445, 40.6892]
+        }
+    },
+    {
+        "name": "Times Square",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9857, 40.7577]
+        }
+    },
+    {
+        "name": "Central Park",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9683, 40.7851]
+        }
+    },
+    {
+        "name": "Empire State Building",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9857, 40.7488]
+        }
+    },
+    {
+        "name": "Brooklyn Bridge",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9969, 40.7061]
+        }
+    },
+    {
+        "name": "Wall Street",
+        "location": {
+            "type": "Point",
+            "coordinates": [-74.0091, 40.7074]
+        }
+    },
+    {
+        "name": "Metropolitan Museum of Art",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9632, 40.7794]
+        }
+    },
+    {
+        "name": "One World Trade Center",
+        "location": {
+            "type": "Point",
+            "coordinates": [-74.0134, 40.7115]
+        }
+    },
+    {
+        "name": "Broadway",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9916, 40.7590]
+        }
+    },
+    {
+        "name": "High Line",
+        "location": {
+            "type": "Point",
+            "coordinates": [-74.0048, 40.7479]
+        }
+    },
+    {
+        "name": "Grand Central Terminal",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9772, 40.7527]
+        }
+    },
+    {
+        "name": "Chelsea Market",
+        "location": {
+            "type": "Point",
+            "coordinates": [-74.0060, 40.7396]
+        }
+    },
+    {
+        "name": "New York Public Library",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9815, 40.7532]
+        }
+    },
+    {
+        "name": "Museum of Modern Art",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9776, 40.7614]
+        }
+    },
+    {
+        "name": "Guggenheim Museum",
+        "location": {
+            "type": "Point",
+            "coordinates": [-73.9580, 40.7828]
+        }
+    }
+]
