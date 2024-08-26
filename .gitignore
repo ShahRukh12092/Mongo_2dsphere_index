@@ -1,0 +1,25 @@
+# Node.js modules
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.*
+
+# MacOS specific files
+.DS_Store
+
+# Linux specific files
+*.swp
+
+# Windows specific files
+Thumbs.db
+
+# IDE or Editor specific files
+.vscode/
+.idea/
